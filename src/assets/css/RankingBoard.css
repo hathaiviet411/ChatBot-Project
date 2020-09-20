@@ -1,0 +1,73 @@
+*:focus {
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+    outline: 0;
+}
+
+.RankingBoard {
+    padding-top: 10px;
+}
+
+#search {
+    height: 160px;
+    padding: 10px;
+}
+
+#question {
+    padding: 10px;
+}
+
+#title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.form-search {
+    display: inline-block;
+}
+
+.form-search input {
+    width: 90%;
+}
+
+input#keyword-input {
+    margin-bottom: 10px;
+}
+
+#search button {
+    width: 100%;
+    /* background-color: #F76B1C;
+    background-image: linear-gradient(90deg, #F76B1C 0%, #FAD961 100%);     */
+    background-color: tomato;
+    border: none;
+}
+
+#search button:hover {
+    background-color: #f9e41a;
+    color: black;
+    /* background-color: #FAD961;
+    background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);    */
+}
+
+#search button:focus {
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+    outline: 0;
+}
+
+#qoutes {
+    padding: 13px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.title-card {
+    padding: 20px;
+}
+
+.text-center {
+    padding-top: 20px;
+}
